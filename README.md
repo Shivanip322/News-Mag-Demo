@@ -1,2 +1,2 @@
 # News-Mag-Demo
-tes
+test
